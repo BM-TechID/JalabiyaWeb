@@ -42,9 +42,7 @@ Proyek ini mungkin tidak memerlukan kontribusi, karena ini adalah proyek klien y
 - Nama: Cill19
   - GitHub: [@Cill19](https://github.com/Cill19)
 - Nama: Ferinanw
-  - GitHub: [@Ferinanw](https
-
-://github.com/Ferinanw)
+  - GitHub: [@Ferinanw](https://github.com/Ferinanw)
 - Nama: RizalAdiyaksaAM
   - GitHub: [@RizalAdiyaksaAM](https://github.com/RizalAdiyaksaAM)
 
