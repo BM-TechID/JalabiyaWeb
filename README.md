@@ -1,6 +1,9 @@
-# JalabiyaWeb - Pembuatan Website Client (JALABIYA ADV & RENTAL OUTDOOR)
+#JALABIYA ADV & RENTAL OUTDOOR
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/FwhZQLz/jalabiya-logo.png" alt="jalabiya-logo" border="0"></a>
+
+## JalabiyaWeb - Pembuatan Website Client (JALABIYA ADV & RENTAL OUTDOOR)
+
+![jalabiya-logo](https://raw.githubusercontent.com/BM-TechID/JalabiyaWeb/main/img/jalabiya-logo.svg)
 
 ## Deskripsi
 JalabiyaWeb adalah proyek yang bertujuan untuk membuat website klien untuk JALABIYA ADV & RENTAL OUTDOOR. Website ini akan digunakan oleh pengguna untuk menjelajahi dan memesan layanan yang disediakan oleh Jalabiya Adv & Rental Outdoor. Layanan tersebut termasuk penyewaan peralatan hiking, pakaian hiking Jalabiya, serta tur petualangan alam.
@@ -34,13 +37,22 @@ Karena proyek ini merupakan website statis, Anda tidak perlu menjalankan server 
 Proyek ini mungkin tidak memerlukan kontribusi, karena ini adalah proyek klien yang telah ditugaskan kepada tim pengembang tertentu. Jika Anda tertarik untuk berkontribusi pada proyek ini, disarankan untuk menghubungi tim pengembang Jalabiya Adv & Rental Outdoor untuk memperoleh informasi lebih lanjut.
 
 ## Tim Pengembang
-- Nama: Mansur julianto
-  - GitHub: [@johndoe](https://github.com/mansurjlnt)
+- Nama: msrjlnt
+  - GitHub: [@msrjlnt](https://github.com/msrjlnt)
+- Nama: Cill19
+  - GitHub: [@Cill19](https://github.com/Cill19)
+- Nama: Ferinanw
+  - GitHub: [@Ferinanw](https
 
+://github.com/Ferinanw)
+- Nama: RizalAdiyaksaAM
+  - GitHub: [@RizalAdiyaksaAM](https://github.com/RizalAdiyaksaAM)
 
-Jika Anda memiliki pertanyaan atau masukan
-
- terkait proyek ini, jangan ragu untuk menghubungi tim pengembang.
+Jika Anda memiliki pertanyaan atau masukan terkait proyek ini, jangan ragu untuk menghubungi tim pengembang.
 
 ## Lisensi
 Proyek ini tidak memiliki lisensi yang ditentukan. Harap dicatat bahwa penggunaan kode atau konten dari proyek ini mungkin terbatas atau diatur oleh pemilik proyek.
+
+## Tampilan Web
+
+![screenshot-home](https://raw.githubusercontent.com/BM-TechID/JalabiyaWeb/main/img/ss-home.png)
