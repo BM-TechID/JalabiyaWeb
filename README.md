@@ -1,4 +1,4 @@
-#JALABIYA ADV & RENTAL OUTDOOR
+# JALABIYA ADV & RENTAL OUTDOOR
 
 
 ## JalabiyaWeb - Pembuatan Website Client (JALABIYA ADV & RENTAL OUTDOOR)
@@ -53,4 +53,4 @@ Proyek ini tidak memiliki lisensi yang ditentukan. Harap dicatat bahwa penggunaa
 
 ## Tampilan Web
 
-![screenshot-home](https://raw.githubusercontent.com/BM-TechID/JalabiyaWeb/main/img/ss-home.png)
+![screenshot-home](https://i.ibb.co/FmFZth4/Home.png)
