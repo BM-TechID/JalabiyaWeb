@@ -3,7 +3,7 @@
 
 ## JalabiyaWeb - Pembuatan Website Client (JALABIYA ADV & RENTAL OUTDOOR)
 
-![jalabiya-logo](https://raw.githubusercontent.com/BM-TechID/JalabiyaWeb/main/img/jalabiya-logo.svg)
+![jalabiya-logo]([https://raw.githubusercontent.com/BM-TechID/JalabiyaWeb/main/img/jalabiya-logo.svg](https://i.ibb.co/FwhZQLz/jalabiya-logo.png))
 
 ## Deskripsi
 JalabiyaWeb adalah proyek yang bertujuan untuk membuat website klien untuk JALABIYA ADV & RENTAL OUTDOOR. Website ini akan digunakan oleh pengguna untuk menjelajahi dan memesan layanan yang disediakan oleh Jalabiya Adv & Rental Outdoor. Layanan tersebut termasuk penyewaan peralatan hiking, pakaian hiking Jalabiya, serta tur petualangan alam.
