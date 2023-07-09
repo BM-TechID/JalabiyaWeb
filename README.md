@@ -53,4 +53,4 @@ Proyek ini tidak memiliki lisensi yang ditentukan. Harap dicatat bahwa penggunaa
 
 ## Tampilan Web
 
-![screenshot-home](https://i.ibb.co/FmFZth4/Home.png)
+![screenshot-home](https://raw.githubusercontent.com/BM-TechID/JalabiyaWeb/main/Home.png)
