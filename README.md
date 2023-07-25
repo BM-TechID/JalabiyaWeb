@@ -37,14 +37,16 @@ Karena proyek ini merupakan website statis, Anda tidak perlu menjalankan server 
 Proyek ini mungkin tidak memerlukan kontribusi, karena ini adalah proyek klien yang telah ditugaskan kepada tim pengembang tertentu. Jika Anda tertarik untuk berkontribusi pada proyek ini, disarankan untuk menghubungi tim pengembang Jalabiya Adv & Rental Outdoor untuk memperoleh informasi lebih lanjut.
 
 ## Tim Pengembang
-- Nama: msrjlnt
+- msrjlnt
   - GitHub: [@msrjlnt](https://github.com/msrjlnt)
-- Nama: Cill19
+- Cill19
   - GitHub: [@Cill19](https://github.com/Cill19)
-- Nama: Ferinanw
+- Ferinanw
   - GitHub: [@Ferinanw](https://github.com/Ferinanw)
-- Nama: RizalAdiyaksaAM
+- RizalAdiyaksaAM
   - GitHub: [@RizalAdiyaksaAM](https://github.com/RizalAdiyaksaAM)
+- LandewankFF
+  -  GitHub: [@LandewankFF](https://github.com/LandewankFF)
 
 Jika Anda memiliki pertanyaan atau masukan terkait proyek ini, jangan ragu untuk menghubungi tim pengembang.
 
