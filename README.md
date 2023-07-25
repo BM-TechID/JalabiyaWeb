@@ -53,6 +53,6 @@ Jika Anda memiliki pertanyaan atau masukan terkait proyek ini, jangan ragu untuk
 ## Lisensi
 Proyek ini tidak memiliki lisensi yang ditentukan. Harap dicatat bahwa penggunaan kode atau konten dari proyek ini mungkin terbatas atau diatur oleh pemilik proyek.
 
-## [Tampilan Web] (http://jalabiya.rf.gd)
+## [Tampilan Web](http://jalabiya.rf.gd)
 
 
